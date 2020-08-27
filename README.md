@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 </details>
 -->
-**Connect with me**
+**Connect with me:**
+
 <p align="center">
 <a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
 </p>

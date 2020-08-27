@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github's Stats </summary>
   
-<p><img align="left" src="https://github-readme-stats.ayoub-berdeddouch.vercel.app/api/top-langs/?username=ayoub-berdedddouch&layout=compact&hide=html" alt="Ayoub Berdeddouch's Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats-opk91of0x.vercel.app/api/top-langs/?username=ayoub-berdedddouch&layout=compact&hide=html" alt="Ayoub Berdeddouch's Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.ayoub-berdeddouch.vercel.app/api?username=ayoub-berdedddouch&show_icons=true" alt="Ayoub Berdeddouch's Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-opk91of0x.vercel.app/api?username=ayoub-berdedddouch&show_icons=true" alt="Ayoub Berdeddouch's Stats" /></p>
 
 </details>
 

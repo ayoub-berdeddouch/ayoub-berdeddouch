@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Ph.D Student / Data Scientist</h3>
+<h3 align="center">Data Scientist / Ph.D Candidate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> </p>
 
-- 🔭 I’m currently working on **Recommender System for Urban Mobility**
+- 🔭 I’m currently working on **Recommender System**
 
-- 🌱 I’m currently learning **GCP, Recommender Systems, TensorFlow & Pytorch**
+- 🌱 I’m currently learning **GCP, Flask**
 
 - 👨‍💻 All of my projects are available at [https://ayoub-berdeddouch.github.io/](https://ayoub-berdeddouch.github.io/)
 

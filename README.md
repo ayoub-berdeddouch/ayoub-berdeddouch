@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Data Scientist / Ph.D Candidate</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> </p>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ayoub.berd@gmail.com**
 
-- ⚡ Fun fact **Coffee maniac**
+- ⚡ Fun fact **Coffee lover**
 
 **Languages and Tools:**
 

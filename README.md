@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> </p>
 
-- 🔭 I’m currently working on **Recommender System**
+- 🔭 I’m currently working on **Recommendondation System for urban Mobility, and Preparing a Django Personal Portfolio,**
 
-- 🌱 I’m currently learning **GCP, Flask**
+- 🌱 I’m currently learning **GCP, Flask, Django,**
 
 - 👨‍💻 All of my projects are available at [https://ayoub-berdeddouch.github.io/](https://ayoub-berdeddouch.github.io/)
 
-- 💬 Ask me about **Machine learning, deep learning,**
+- 💬 Ask me about **Machine learning, deep learning, Recommendation Systems, Data Science,**
 
 - 📫 How to reach me **ayoub.berd@gmail.com**
 

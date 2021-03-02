@@ -46,7 +46,14 @@ Here are some ideas to get you started:
 </details>
 -->
 
+---------------------------
+[![Ayoub's github stats](https://github-readme-stats.vercel.app/api?username=ayoub-berdeddouch)](https://github.com/ayoub-berdeddouch/github-readme-stats)
 
+
+
+
+
+---------------------------
 **Connect with me:**
 
 <p align="center">

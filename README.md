@@ -56,10 +56,11 @@ Here are some ideas to get you started:
 
   </thead>
   <tr>
-    <td>Database</td>
+    <td>Database</td> 
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </td>
      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
   </tr>

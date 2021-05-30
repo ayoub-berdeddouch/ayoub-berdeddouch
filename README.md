@@ -31,15 +31,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  <a href="mailto:ayoub.berd@gmail.com">E-Mail</a>
 
 - ⚡ Fun fact **Coffee lover**
-  
+
+<hr>
 
 <summary>:zap: Github's Stats </summary>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub-berdeddouch&show_icons=true" alt="Ayoub Berdeddouch's Top Langs" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-berdeddouch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<table>
+  <thead>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-berdeddouch&theme=default"></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=ayoub-berdeddouch&show_icons=true" alt="Ayoub Berdeddouch's Top Langs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-berdeddouch&layout=compact" /></th>
+  </thead>
+</table>
+
+<hr>
+   
 
 
 <table>
@@ -109,6 +116,7 @@ Here are some ideas to get you started:
   </tr>
 
 </table>
+<hr>
 
 
 **Connect with me:**

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **GCP, AWS, Flask, Django,**
 
-- 👨‍💻 All of my projects are available at [https://ayoubberdeddouch.com/](https://ayoubberdeddouch.com/) **Coming Soon**
+- 👨‍💻 All of my projects are available at [https://ayoubberdeddouch.com/](https://ayoubberdeddouch.com/) **is LIVE** , will updatin it frequently.
 
 - 💬 Ask me about **Machine learning, deep learning, Recommendation Systems, Data Science,**
 

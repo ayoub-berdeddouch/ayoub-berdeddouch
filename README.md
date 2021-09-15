@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 
   <thead>
     <td>Languages</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </td>
+    <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </td>
@@ -79,6 +80,9 @@ Here are some ideas to get you started:
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></td>
+     <td><img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="slack" width="40" height="40"/> </td>
+     <td><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/></td>
+     <td><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="aws eks" width="40" height="40"/></td>
   </tr>
   <tr>
     <td>UI Design</td>
@@ -87,13 +91,20 @@ Here are some ideas to get you started:
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </td>
+    
+    
   </tr>
   
   <tr>
     <td>Cloud</td>
      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </td>
+     <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></td>
+     <td><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws ecs" width="40" height="40"/></td>
+     
+     
+    
+    
     
   </tr>
   
@@ -111,8 +122,18 @@ Here are some ideas to get you started:
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/></td> 
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td> 
-
+     <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td>Web Servers</td>
+     <td><img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="40" height="40"/></td>
+     <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" width="40" height="40"/></td> 
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/></td>    
+    <td><img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Open Suse" width="40" height="40"/></td>
+     
   </tr>
 
 </table>
@@ -122,6 +143,6 @@ Here are some ideas to get you started:
 **Connect with me:**
 
 <p align="center">
-<a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
   <a href="https://www.twitter.com/ABerdeddouch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://www.twitter.com/ABerdeddouch/" height="30" width="30" /></a>
 </p>

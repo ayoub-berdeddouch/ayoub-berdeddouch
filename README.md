@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **GCP, AWS, Flask, Django,**
 
-- 👨‍💻 All of my projects are available at [https://ayoubberdeddouch.com/](https://ayoubberdeddouch.com/) **is LIVE** , will updatin it frequently.
+- 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/) **is LIVE** , will updatin it frequently.
 
 - 💬 Ask me about **Machine learning, deep learning, Recommendation Systems, Data Science,**
 
-- 📫 How to reach me:  <a href="mailto:ayoub.berd@gmail.com">E-Mail</a>
+- 📫 How to reach me:  <a href="mailto:ayoub.berd@gmail.com">📧</a>
 
 - ⚡ Fun fact **Coffee lover**
 
@@ -143,6 +143,9 @@ Here are some ideas to get you started:
 **Connect with me:**
 
 <p align="center">
-<a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
-  <a href="https://www.twitter.com/ABerdeddouch/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://www.twitter.com/ABerdeddouch/" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
+  <a href="https://www.twitter.com/ABerdeddouch/" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="https://www.twitter.com/ABerdeddouch/" height="30" width="30" /></a>
+  <a href="https://ayoubberdeddouch.com" target="blank">
+    <img align="center" src="https://img.icons8.com/clouds/100/000000/domain.png" alt="https://ayoubberdeddouch.com" height="30" width="30" /></a>
+  
 </p>

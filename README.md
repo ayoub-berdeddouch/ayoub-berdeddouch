@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> </p>
 
-- 🔭 I’m currently working on **Recommendondation System for urban Mobility, and Preparing a Django Personal Portfolio,**
+- 🔭 I’m currently working on **Article on Location Based RS**
 
-- 🌱 I’m currently learning **GCP, AWS, Flask, Django,**
+- 🌱 I’m currently learning **GCP, AWS, Flask, Django, Streamlit, Plotly/Dash**
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/) **is LIVE** , will updatin it frequently.
 

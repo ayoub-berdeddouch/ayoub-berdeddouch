@@ -1,37 +1,31 @@
 
-
-<!--
-**ayoub-berdeddouch/ayoub-berdeddouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
 <h3 align="center">Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> 
+  
+<!--   [![Linkedin Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/ayoub-berdeddouch/)](https://www.linkedin.com/in/ayoub-berdeddouch/)  -->
+  
+  </p>
+
 
 - 🔭 I’m currently working on **Article on Location Based RS**
 
-- 🌱 I’m currently learning **GCP, AWS, Flask, Django, Streamlit, Plotly/Dash**
+- 🌱 I’m currently learning **ML & Data Engineering ZoomCamp by @ https://github.com/alexeygrigorev**
 
-- 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/) **is LIVE** , will updatin it frequently.
+- 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
 
 - 💬 Ask me about **Machine learning, deep learning, Recommendation Systems, Data Science,**
 
-- 📫 How to reach me:  <a href="mailto:ayoub.berd@gmail.com">📧</a>
+- 📫 How to reach me:  <a href="https://ayoubberdeddouch.com/contact">📧</a>
 
 - ⚡ Fun fact **Coffee lover**
 
+<hr>
+
+[![ResearchGate Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=ResearchGate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Ayoub-Berdeddouch)](https://www.researchgate.net/profile/Ayoub-Berdeddouch)
+
+[![Google Scholar Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4285F4&link=https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)](https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)
 <hr>
 
 <summary>:zap: Github's Stats </summary>

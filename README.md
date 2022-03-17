@@ -134,6 +134,14 @@
 <hr>
 
 
+**GitHub Profile Trophy**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayoub-berdeddouch)](https://github.com/ryo-ma/github-profile-trophy)
+
+**Contribution**
+
+![Ayoub BERDEDDOUCH's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub-berdeddouch&theme=dracula)
+
 **Connect with me:**
 
 <p align="center">

@@ -10,13 +10,13 @@
   </p>
 
 
-- 🔭 I’m currently working on **Article on Location Based RS**
+- 🔭 I’m currently working on **Data...Data...Data**
 
 - 🌱 I’m currently learning **ML & Data Engineering ZoomCamp by @ https://github.com/alexeygrigorev**
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
 
-- 💬 Ask me about **Machine learning, deep learning, Recommendation Systems, Data Science,**
+- 💬 Ask me about **`Machine learning`, `Deep learning`, `Recommendation Systems`, `Data Science`, `Computer Vision`, `Python ~ Django`,**
 
 - 📫 How to reach me:  <a href="https://ayoubberdeddouch.com/contact">📧</a>
 

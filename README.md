@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Data...Data...Data**
 
-- 🌱 I’m currently learning **ML & Data Engineering ZoomCamp by @ https://github.com/alexeygrigorev**
+- 🌱 I’m currently learning **Hadoop Ecosystem** <!-- ML & Data Engineering ZoomCamp by @ https://github.com/alexeygrigorev**-->
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
 
-- 💬 Ask me about **`Machine learning`, `Deep learning`, `Recommendation Systems`, `Data Science`, `Computer Vision`, `Python ~ Django`,**
+- 💬 Ask me about **`Machine learning`, `Deep learning`, `Recommendation Systems`, `Data Science`, `Computer Vision`, `Python ~ Django`,`NLP`**
 
 - 📫 How to reach me:  <a href="https://ayoubberdeddouch.com/contact">📧</a>
 
@@ -116,7 +116,7 @@
     <td>Frameworks</td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/></td> 
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></td>
+     <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td>
   </tr>
   <tr>

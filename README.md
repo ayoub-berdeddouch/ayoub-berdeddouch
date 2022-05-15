@@ -12,7 +12,10 @@
 
 - 🔭 I’m currently working on **Data...Data...Data**
 
-- 🌱 I’m currently learning **Hadoop Ecosystem** <!-- ML & Data Engineering ZoomCamp by @ https://github.com/alexeygrigorev**-->
+- 🌱 I’m currently learning 
+    -   **Hadoop Ecosystem** : PySpark, Oozie, HDFS, HBASE, ... 
+    -   Data Engineering Bootcamp by @DPHI & by @ https://github.com/alexeygrigorev
+    -   MLOPS ZoomCAMP https://github.com/DataTalksClub/mlops-zoomcamp
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
 

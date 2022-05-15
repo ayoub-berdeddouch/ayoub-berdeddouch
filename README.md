@@ -24,6 +24,8 @@
 
 <hr>
 
+<summary>📚 📚 📚  Research's Plateforms </summary> 
+
 [![ResearchGate Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=ResearchGate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Ayoub-Berdeddouch)](https://www.researchgate.net/profile/Ayoub-Berdeddouch)
 
 [![Google Scholar Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4285F4&link=https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)](https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)

@@ -1,11 +1,16 @@
 ![image.svg](image.svg)
 
 <h1 align="center">Hi 👋, Welcome to my Github!</h1>
-<!-- <h3 align="center">Data Scientist</h3> -->
+<!-- <h3 align="center">Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" />  -->
   
-<!--   [![Linkedin Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/ayoub-berdeddouch/)](https://www.linkedin.com/in/ayoub-berdeddouch/)  -->
+[![GitHub Badge](https://img.shields.io/github/followers/ameztegui?style=social)](https://github.com/ayoub-berdeddouch)
+[![Linkedin Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/ayoub-berdeddouch/)](https://www.linkedin.com/in/ayoub-berdeddouch/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Ayoub-Berdeddouch)
+[![Website Badge](https://img.shields.io/badge/My-Website-red)](https://www.ayoubberdeddouch.com)
+
   
   </p>
 
@@ -13,7 +18,7 @@
 - 🔭 I’m currently working on **Data...Data...Data**
 
 - 🌱 I’m currently learning 
-    -   **Hadoop Ecosystem** : PySpark, Oozie, HDFS, HBASE, ... 
+    -   **Hadoop Ecosystem**
     -   Data Engineering Bootcamp by @DPHI & by @ https://github.com/alexeygrigorev
     -   MLOPS ZoomCAMP https://github.com/DataTalksClub/mlops-zoomcamp
 
@@ -25,13 +30,14 @@
 
 - ⚡ Fun fact **Coffee lover**
 
+
 <hr>
 
-<summary>📚 📚 📚  Research's Plateforms </summary> 
+[![@ayoubberdeddouch's Holopin board](https://holopin.me/ayoubberdeddouch)](https://holopin.io/@ayoubberdeddouch)
 
-[![ResearchGate Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=ResearchGate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Ayoub-Berdeddouch)](https://www.researchgate.net/profile/Ayoub-Berdeddouch)
 
-[![Google Scholar Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4285F4&link=https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)](https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)
+<hr>
+<!-- <summary>📚 📚 📚  Research's Plateforms </summary>  -->
 <hr>
 
 <summary>:zap: Github's Stats </summary>

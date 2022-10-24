@@ -18,9 +18,12 @@
 - 🔭 I’m currently working on **Data...Data...Data**
 
 - 🌱 I’m currently learning 
+    - New things everyday...
+<!--    
     -   **Hadoop Ecosystem**
     -   Data Engineering Bootcamp by @DPHI & by @ https://github.com/alexeygrigorev
     -   MLOPS ZoomCAMP https://github.com/DataTalksClub/mlops-zoomcamp
+-->
 
 - 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
 

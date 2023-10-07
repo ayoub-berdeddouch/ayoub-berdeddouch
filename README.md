@@ -37,7 +37,8 @@
 
 
 <hr>
-[![@ayoubberdeddouch's Holopin board](https://holopin.me/ayoubberdeddouch)](https://holopin.io/@ayoubberdeddouch)
+[![An image of @ayoubberdeddouch's Holopin badges](https://holopin.me/ayoubberdeddouch)](https://holopin.io/@ayoubberdeddouch)
+
 
 
 <hr>

@@ -151,21 +151,3 @@
 </table>
 <hr>
 
-
-**GitHub Profile Trophy**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayoub-berdeddouch)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Contribution**
-
-![Ayoub BERDEDDOUCH's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub-berdeddouch&theme=dracula)
-
-**Connect with me:**
-
-<p align="center">
-  <a href="https://linkedin.com/in/ayoub-berdeddouch/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/ayoub-berdeddouch/" height="30" width="30" /></a>
-  <a href="https://www.twitter.com/ABerdeddouch/" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="https://www.twitter.com/ABerdeddouch/" height="30" width="30" /></a>
-  <a href="https://ayoubberdeddouch.com" target="blank">
-    <img align="center" src="https://img.icons8.com/clouds/100/000000/domain.png" alt="https://ayoubberdeddouch.com" height="30" width="30" /></a>
-  
-</p>

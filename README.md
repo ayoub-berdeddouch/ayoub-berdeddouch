@@ -5,149 +5,114 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub-berdedddouch" alt="ayoub-berdedddouch" />  -->
   
-[![GitHub Badge](https://img.shields.io/github/followers/ameztegui?style=social)](https://github.com/ayoub-berdeddouch)
-[![Linkedin Badge](https://img.shields.io/badge/Ayoub_Berdeddouch-informational?style=flat&logo=linkedin&color=0A66C2&link=https://www.linkedin.com/in/ayoub-berdeddouch/)](https://www.linkedin.com/in/ayoub-berdeddouch/)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr)
-[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Ayoub-Berdeddouch)
-[![Website Badge](https://img.shields.io/badge/My-Website-red)](https://www.ayoubberdeddouch.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Ayoub%20Berdeddouch&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Lead%20Data%20Scientist%20%7C%20AI%20%26%20MLOps%20Engineer%20%7C%20LLMs%20%26%20Agents&descAlignY=62&descSize=17" width="100%" />
 
-  
+  <p>
+    <a href="https://github.com/ayoub-berdeddouch"><img src="https://img.shields.io/github/followers/ayoub-berdeddouch?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" /></a>
+    <a href="https://www.linkedin.com/in/ayoub-berdeddouch/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://scholar.google.com/citations?user=_BLkZrMAAAAJ&hl=fr"><img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+    <a href="https://www.researchgate.net/profile/Ayoub-Berdeddouch"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+    <a href="https://ayoubberdeddouch.com"><img src="https://img.shields.io/badge/Portfolio-ayoubberdeddouch.com-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   </p>
 
+  <img src="https://komarev.com/ghpvc/?username=ayoub-berdeddouch&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
 
-- 🔭 I’m currently working on **Data...Data...Data**
+<br/>
 
-- 🌱 I’m currently learning 
-    - New things everyday...
-<!--    
-    -   **Hadoop Ecosystem**
-    -   Data Engineering Bootcamp by @DPHI & by @ https://github.com/alexeygrigorev
-    -   MLOPS ZoomCAMP https://github.com/DataTalksClub/mlops-zoomcamp
--->
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [🌐🔗🌐](https://ayoubberdeddouch.com/)
+- 🔭 **Current Focus:** Architecting autonomous **Agentic AI workflows**, enterprise **RAG systems**, and resilient **MLOps pipelines** at scale.
+- 🤖 **Specialization:** Large Language Models (Fine-Tuning & Quantization), Multi-Agent Orchestration, Vector Search, and High-Throughput Model Serving.
+- 🧠 **Research & Engineering:** Bridge between academic applied ML research and cloud-native production deployments.
+- 🌐 **Portfolio & Case Studies:** Explore live demos and architectures at [aibquest.com](https://aibquest.com/).
+- 💬 **Ask me about:** `Agentic AI`, `LangGraph / CrewAI`, `LLM Fine-tuning (LoRA/QLoRA)`, `vLLM & TensorRT`, `MLOps (Kubeflow / MLflow)`, `Vector DBs`, `PyTorch`.
+- 📫 **Get in touch:** Reach out directly via [Contact Form](https://aibquest.com/about/) or [LinkedIn](https://www.linkedin.com/in/ayoub-berdeddouch/).
+- ⚡ **Fun Fact:** Fueled by curiosity, agentic loops, and intense espresso shots ☕.
 
-- 💬 Ask me about **`Machine learning`, `Deep learning`, `Recommendation Systems`, `Data Science`, `Computer Vision`, `Python ~ Django`,`NLP`**
+<div align="center">
+  <a href="https://www.buymeacoffee.com/aberdeddouch">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
-- 📫 How to reach me:  <a href="https://ayoubberdeddouch.com/contact">📧</a>
+---
 
-- ⚡ Fun fact **Coffee lover**
+### 🧠 Agentic AI, LLMs & GenAI Stack
 
-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aberdeddouch)
+<div align="center">
 
+| Area | Tools & Ecosystem |
+| :--- | :--- |
+| **Agentic Frameworks** | <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-7852FF?style=for-the-badge&logoColor=white" /> |
+| **Model Hubs & Tuning** | <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT_/_LoRA-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Unsloth-4285F4?style=for-the-badge&logoColor=white" /> |
+| **Serving & Inference** | <img src="https://img.shields.io/badge/vLLM-008080?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/TGI_(Text_Gen_Inf)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/TensorRT--LLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> |
+| **Vector Databases** | <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PGvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 
-<hr>
+</div>
 
-[![An image of @ayoubberdeddouch's Holopin badges](https://holopin.me/ayoubberdeddouch)](https://holopin.io/@ayoubberdeddouch)
+---
 
+### ⚙️ MLOps & Production Engineering
 
+<div align="center">
 
-<hr>
-<!-- <summary>📚 📚 📚  Research's Plateforms </summary>  -->
-<hr>
+| Capability | Infrastructure & Pipelines |
+| :--- | :--- |
+| **Experiment & Registry** | <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" /> <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" /> |
+| **Pipelines & Orchestration** | <img src="https://img.shields.io/badge/Kubeflow-0052CC?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" /> <img src="https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /> |
+| **Deployment & Containers** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/KServe-2563EB?style=for-the-badge&logoColor=white" /> |
+| **CI/CD & Monitoring** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Evidently_AI-5A32A3?style=for-the-badge&logoColor=white" /> |
 
-<summary>:zap: Github's Stats </summary>
+</div>
 
+---
 
-<table>
-  <thead>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-berdeddouch&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=ayoub-berdeddouch&show_icons=true" alt="Ayoub Berdeddouch's Top Langs" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-berdeddouch&layout=compact" /></th>
-  </thead>
-</table>
+### 🛠️ Core Tech Stack & Foundation
 
-<hr>
-   
+<div align="center">
 
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,r,java,js,cpp,c,matlab" /> |
+| **Deep Learning & CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> |
+| **Big Data Processing** | <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> <img src="https://img.shields.io/badge/Dask-FBAF00?style=flat-square&logo=dask&logoColor=white"/> <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" /> |
+| **Cloud & Systems** | <img src="https://skillicons.dev/icons?i=aws,gcp" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=fastapi,flask,django" /> |
 
-<table>
+</div>
 
-  <thead>
-    <td>Languages</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </td>
-    <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="python" width="40" height="40"/> </td>
+---
 
-  </thead>
-  <tr>
-    <td>Database</td> 
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </td>
-     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-  </tr>
-   <tr>
-    <td>DevOps</td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="slack" width="40" height="40"/> </td>
-     <td><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="aws eks" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td>UI Design</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </td>
-    
-    
-  </tr>
-  
-  <tr>
-    <td>Cloud</td>
-     <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws ecs" width="40" height="40"/></td>
-     
-     
-    
-    
-    
-  </tr>
-  
-  <tr> 
-    <td>Data Science</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td> 
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p></td>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td>Frameworks</td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/></td> 
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td>Web Servers</td>
-     <td><img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" width="40" height="40"/></td> 
-  </tr>
-  <tr>
-    <td>OS</td>
-    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/></td>    
-    <td><img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Open Suse" width="40" height="40"/></td>
-     
-  </tr>
+### 📊 GitHub Activity & Metrics
 
-</table>
-<hr>
+<div align="center">
+  <a href="https://github.com/ayoub-berdeddouch">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayoub-berdeddouch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/ayoub-berdeddouch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-berdeddouch&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
 
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/ayoub-berdeddouch">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-berdeddouch&theme=tokyonight&hide_border=true" width="97%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://holopin.io/@ayoubberdeddouch">
+    <img src="https://holopin.me/ayoubberdeddouch" alt="Holopin badges" width="97%" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered by <b>Ayoub Berdeddouch</b> • Autonomous Agents, Scalable Models & Robust Pipelines.</sub>
+</div>
